@@ -50,8 +50,8 @@ housing-price-predictor/
 ## 🚀 How to Use
 
 1. Clone the repo:
-```bash
-git clone https://github.com/your-username/housing-price-predictor ```
+
+git clone https://github.com/your-username/housing-price-predictor 
 
 2. Install dependencies:
 
