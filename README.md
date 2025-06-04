@@ -72,9 +72,3 @@ This project is created for educational and portfolio purposes. The model and pr
 ### 👩‍💻 Author
 
 Made with 🧠 and ☕ by [blah-bleh-hmm](https://github.com/blah-bleh-hmm)
-
-
-
-
-
-"# housing-price-predictor" 
