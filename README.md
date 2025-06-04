@@ -50,22 +50,24 @@ housing-price-predictor/
 ## 🚀 How to Use
 
 1. Clone the repo:
-
 git clone https://github.com/your-username/housing-price-predictor 
 
 2. Install dependencies:
-
-pip install flask joblib pandas scikit-learn
+`pip install flask joblib pandas scikit-learn`
 
 3. Run the server:
-
 python app.py
 
 4. Open your browser and go to 
-http://localhost:5000
+`http://localhost:5000`
 
-📌Note
+
+## 📌Note
+
+
 This project is created for educational and portfolio purposes. The model and predictions are based on a sample dataset and should not be used for real property valuation.
+
+---
 
 ### 👩‍💻 Author
 
